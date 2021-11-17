@@ -1,25 +1,26 @@
 {
-  "key": "",
+  "key": "v2b_gminz",
   "target": 1,
   "email": "",
   "tg": "",
-  "crisp": "",
+  "crisp": "69074aec-ec6e-41b6-bd76-9753422d82c4",
   "loginless": 0,
   "loginless_link": "",
   "code_login": 0,
-  "code_register": 1,
+  "code_register": 0,
   "captcha_login": 1,
   "captcha_register": 1,
   "captcha_checkin": 1,
   "notice": 2,
-  "checkin": 1,
+  "checkin": 0,
   "line_flag_regex": "",
   "line_exclude_loc": 1,
   "payment_config": {
     "Alipay": "1",
-    "Wechat": "0"
+    "Wechat": "1"
   },
   "hosts": [
-    ""
+    "https://gminz.net",
+    "https://gminz.men"
   ]
 }
